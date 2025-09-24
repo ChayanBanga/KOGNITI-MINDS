@@ -1,0 +1,21 @@
+CustomerID,CustomerName,Date,Product,Quantity,UnitPrice,Revenue
+C001,Alice Smith,2025-01-15,Laptop,1,1200,1200
+C002,Bob Johnson,2025-01-20,Mouse,3,25,75
+C003,Clara Lee,2025-02-10,Monitor,2,200,400
+C004,Daniel Kim,2025-02-22,Keyboard,1,75,75
+C005,Eva Green,2025-03-05,Laptop,1,1200,1200
+C006,Frank Thomas,2025-03-15,Headphones,2,100,200
+C001,Alice Smith,2025-04-01,Laptop Bag,1,50,50
+C007,George Hall,2025-04-18,Mouse,4,25,100
+C008,Hannah Wright,2025-05-02,Monitor,1,200,200
+C002,Bob Johnson,2025-05-22,Monitor,2,200,400
+C009,Ian Clark,2025-06-12,Laptop,1,1200,1200
+C010,Jane Lopez,2025-06-18,Laptop Bag,2,50,100
+C004,Daniel Kim,2025-07-10,Mouse,5,25,125
+C005,Eva Green,2025-07-22,Keyboard,1,75,75
+C006,Frank Thomas,2025-08-01,Monitor,1,200,200
+C001,Alice Smith,2025-08-15,Mouse,2,25,50
+C002,Bob Johnson,2025-08-28,Headphones,1,100,100
+C003,Clara Lee,2025-09-01,Laptop,1,1200,1200
+C009,Ian Clark,2025-09-10,Keyboard,1,75,75
+C010,Jane Lopez,2025-09-15,Headphones,1,100,100
